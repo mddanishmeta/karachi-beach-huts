@@ -1,0 +1,6 @@
+{
+  "name": "Karachi Beach Farmhouse and Huts",
+  "description": "Book Karachi beach huts, luxury farmhouses, coastal resorts, water sports, Churna Island trips, beach games, and event venues with direct WhatsApp booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
